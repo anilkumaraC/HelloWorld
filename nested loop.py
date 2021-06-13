@@ -4,7 +4,7 @@ for x_count in numbers:
 
 
 
-numbers=[2,3,6,9,10,22,45]
+numbers=[2,3,6,9,10,22,45,56]
 for number in numbers:
     max=0
     if number > max:

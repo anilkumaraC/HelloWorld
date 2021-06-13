@@ -1,2 +1,2 @@
 x=10
-print(range(x))
+print(range(10))
